@@ -1,0 +1,13 @@
+{
+    "LoginGUI": {
+        "EnterLoginExperience_Wallpaper": "blur"
+    },
+    "Theme": {
+        "Surface":"#0f1416",
+        "SurfaceContainer":"#1b2023",
+        "Primary":"#88d1ec",
+        "Secondary":"#b3cad4",
+        "Teritary":"#c3c3eb",
+        "Outline":"#8a9296"
+    }
+}
