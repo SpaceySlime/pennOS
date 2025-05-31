@@ -6,8 +6,11 @@
         "Surface":"#0f1416",
         "SurfaceContainer":"#1b2023",
         "Primary":"#88d1ec",
+        "OnPrimary":"#003543",
         "Secondary":"#b3cad4",
+        "OnSecondary":"#1e333b"
         "Teritary":"#c3c3eb",
+        "OnTeritary":"#2c2e4d",
         "Outline":"#8a9296"
     }
 }
