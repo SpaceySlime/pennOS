@@ -1,3 +1,5 @@
+# ! pennyOS will be superseeded by a more sigma-er and meta project !
+
 # pennyOS
 pennyOS is a simulation of an operating system made in [PenguinMod](https://penguinmod.com) that was made out of displeasure for the featured project [PenguinOS](https://studio.penguinmod.com/#3733687874). pennyOS is named after the sprite library item, [Penny](https://library.penguinmod.com/files/images/user/Penny.svg)
 ## Gallery
